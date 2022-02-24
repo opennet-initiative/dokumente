@@ -1,8 +1,8 @@
-h1. Datenschutzerklärung des Vereins „Opennet Initiative e.V.“
+# Datenschutzerklärung des Vereins „Opennet Initiative e.V.“
 
 Beschlossen in der E-Mail Abstimmung am xx. Mai 2018
 
-h2. § 1 Datenschutzerklärung
+## § 1 Datenschutzerklärung
 
 1. Diese Datenschutzerklärung beinhaltet die „Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person“ gemäß Art. 13 Datenschutz-Grundverordnung (DS-GVO).
 3. Verantwortliche Stelle: Opennet Initiative e.V., Friedrichstr. 23, 18057 Rostock, vorstand@opennet-initiative.de
