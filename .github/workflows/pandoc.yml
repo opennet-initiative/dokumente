@@ -3,7 +3,7 @@ on: push
 
 jobs:
   convert_via_pandoc:
-    runs-on: latest-ubuntu
+    runs-on: latest
     container:
       image: docker://dalibo/pandocker
       options: --entrypoint=sh
