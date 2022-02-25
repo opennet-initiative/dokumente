@@ -1,3 +1,9 @@
+---
+title: Satzung
+author: Opennet Iniative e.V. - https://opennet-initiative.de/
+date: 02.04.2022
+---
+
 # Satzung des Vereins „Opennet Initiative e.V.“
 
 Beschlossen in der E-Mail Abstimmung am 30. Oktober 2007
