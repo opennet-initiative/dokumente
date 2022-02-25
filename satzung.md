@@ -13,6 +13,7 @@ Geändert und beschlossen von der Jahresversammlung am 04. Februar 2022
 ## §2 Zweck des Vereins
 
 Der Zweck des Vereins ist die Förderung des Aufbaus einer freien und offenen Kommunikationsinfrastruktur (im folgenden offenes Netz oder Opennet genannt). Der Verein erfüllt seine Zwecke insbesondere durch
+
 1. die Erarbeitung von Musterkonfigurationen, Regelwerken und Vertrags-bedingungen, die seinen Mitgliedern den selbständigen Betrieb eigenständiger, vom Verein unabhängiger offener Netze ermöglichen,
 2. den Aufbau von Muster- und Testnetzwerken als „best practice“ Studien,
 3. die Erleichterung des Datenverkehrs zwischen den einzelnen offenen Netzen seiner Mitglieder durch Förderung und Betrieb eines Backbone-Netzwerks,
