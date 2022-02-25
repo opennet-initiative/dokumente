@@ -5,7 +5,7 @@ jobs:
   convert_via_pandoc:
     runs-on: latest-ubuntu
     container:
-      image: docker://pandoc/latex
+      image: docker://dalibo/pandocker
       options: --entrypoint=sh
     steps:
       - uses: actions/checkout@v2
