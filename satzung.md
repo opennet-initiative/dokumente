@@ -1,7 +1,13 @@
 ---
-title: Satzung
+title: |
+ ![](opennet.png){width=1in}
+ Satzung
 author: Opennet Iniative e.V. - https://opennet-initiative.de/
+subject: Dokumente
 date: 02.04.2022
+lang: de-DE
+documentclass: scrreprt
+toc: true
 ---
 
 # Satzung des Vereins „Opennet Initiative e.V.“
