@@ -4,3 +4,5 @@ Derzeit gültige Versionen: https://downloads.opennet-initiative.de/verein/dokum
 
 Umwandlung in PDF:
 `pandoc <datei>.md -o <datei>.pdf`
+
+Voraussetzungen: pandoc + LaTeX (z.B. BasicTeX - incl. KOMA Scripts und pdflatex)
