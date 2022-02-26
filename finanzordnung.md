@@ -1,4 +1,18 @@
+---
+title: |
+ ![](opennet.png){width=1in}
+ Finanzordnung
+author: Opennet Iniative e.V. - https://opennet-initiative.de/
+subject: Dokumente
+date: 29.06.2007
+lang: de-DE
+documentclass: scrreprt
+toc: false
+---
+
 # Finanzordnung des Vereins „Opennet Initiative e.V.“
+
+Beschlossen in der E-Mail Abstimmung am 29. Juni 2007.
 
 ## §1 Formvorschriften
 
@@ -21,8 +35,7 @@ Gegenstand und Höhe des Betrages sowie Empfänger bzw. Absender müssen ersicht
 
 Belege, aus denen der Zahlungsgrund nicht ohne weiteres ersichtlich ist, müssen schriftlich erläutert werden.
 
-Wenn mit besonderer Begründung keine Originalbelege Dritter vorgelegt werden können, sind ausnahmsweise Ersatzbelege zulässig, wenn sie die Anforderungen von 
-§2 Abs. 1 der Finanzordnung ansonsten erfüllen.
+Wenn mit besonderer Begründung keine Originalbelege Dritter vorgelegt werden können, sind ausnahmsweise Ersatzbelege zulässig, wenn sie die Anforderungen von §2 Abs. 1 der Finanzordnung ansonsten erfüllen.
 
 ## §3 Aufgaben des Schatzmeisters
 
