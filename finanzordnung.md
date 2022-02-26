@@ -7,7 +7,7 @@ subject: Dokumente
 date: 29.06.2007
 lang: de-DE
 documentclass: scrreprt
-toc: false
+toc: true
 ---
 
 # Finanzordnung des Vereins „Opennet Initiative e.V.“
