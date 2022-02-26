@@ -1,3 +1,15 @@
+---
+title: |
+ ![](opennet.png){width=1in}
+ Datenschutzerklärung
+author: Opennet Iniative e.V. - https://opennet-initiative.de/
+subject: Dokumente
+date: 07.05.2018
+lang: de-DE
+documentclass: scrreprt
+toc: false
+---
+
 # Datenschutzerklärung des Vereins „Opennet Initiative e.V.“
 
 Beschlossen in der E-Mail Abstimmung am 07. Mai 2018
