@@ -1,5 +1,5 @@
-FROM debian:11
-RUN apt-get update && apt-get install -y \
+FROM debian:latest
+RUN apt update && apt install -y \
     git vim \
     texlive-latex-recommended pandoc texlive-lang-german
 
