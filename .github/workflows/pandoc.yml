@@ -5,7 +5,7 @@ jobs:
   convert_via_pandoc:
     runs-on: latest
     container:
-      image: docker://dalibo/pandocker
+      image: docker://pandoc/core
       options: --entrypoint=sh
     steps:
       - uses: actions/checkout@v2
