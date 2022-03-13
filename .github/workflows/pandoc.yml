@@ -12,7 +12,7 @@ jobs:
       - name: install LaTeX KOMA scripts via texmf-dist
         run: apk add texmf-dist
       - name: add LaTeX KOMA scripts to TEXINPUTS variable
-        run: export TEXINPUTS=".;/usr/share/texmf-dist/doc/latex/koma-script/"
+        run: export TEXINPUTS=".;/usr/share/texmf-dist/doc/latex/koma-script;"
       - name: prepare output directories
         run: |
           for d in */; do
