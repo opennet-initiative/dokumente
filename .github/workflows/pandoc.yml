@@ -9,6 +9,8 @@ jobs:
       options: --entrypoint=sh
     steps:
       - uses: actions/checkout@v2
+      - name: install texlive
+        run: apk add texlive
       - name: prepare output directories
         run: |
           for d in */; do
