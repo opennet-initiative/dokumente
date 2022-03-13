@@ -3,7 +3,7 @@ on: push
 
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     container:
       image: docker://pandoc/core
       options: --entrypoint=sh
