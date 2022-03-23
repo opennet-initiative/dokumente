@@ -2,7 +2,7 @@
 title: |
  ![](opennet.png){width=1in}
  Beitragsordnung
-author: Opennet Iniative e.V. - https://opennet-initiative.de/
+author: Opennet Initiative e.V. - https://opennet-initiative.de/
 subject: Dokumente
 date: 10.02.2017
 lang: de-DE

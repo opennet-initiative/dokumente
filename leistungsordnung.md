@@ -2,7 +2,7 @@
 title: |
  ![](opennet.png){width=1in}
  Leistungsordnung
-author: Opennet Iniative e.V. - https://opennet-initiative.de/
+author: Opennet Initiative e.V. - https://opennet-initiative.de/
 subject: Dokumente
 date: 30.08.2005
 lang: de-DE
@@ -40,7 +40,7 @@ Laut § 2 der Satzung besteht der Verein „Opennet-Initiative“ zum Zweck der 
 
 1. Alle Mitglieder verpflichten sich zur Übernahme von Patenschaften für neue Vereinsmitglieder zum Zweck des Aufbaus und der Einrichtung eines Kommunikationsknotens.
 
-2. Aktive Mitglieder sind zum dauerhaften Betrieb eines Opennet-konformen Knotens verpflichtet. Dieser soll zur Vergrößerung des Versorgungsbereichs für den Gesamtverein dienen. Ist eine sinnvolle Aufstellung am Wohnort des Mitglieds unmöglich oder von diesem nicht gewünscht, bestimmt das Kuratorium den Aufstellungsort. 
+2. Aktive Mitglieder sind zum dauerhaften Betrieb eines Opennet-konformen Knotens verpflichtet. Dieser soll zur Vergrößerung des Versorgungsbereichs für den Gesamtverein dienen. Ist eine sinnvolle Aufstellung am Wohnort des Mitglieds unmöglich oder von diesem nicht gewünscht, bestimmt das Kuratorium den Aufstellungsort.
 
 ## § 4 Nutzungsbedingungen
 

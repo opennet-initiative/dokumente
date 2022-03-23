@@ -2,9 +2,9 @@
 title: |
  ![](opennet.png){width=1in}
  Satzung
-author: Opennet Iniative e.V. - https://opennet-initiative.de/
+author: Opennet Initiative e.V. - https://opennet-initiative.de/
 subject: Dokumente
-date: 02.04.2022
+date: 04.02.2022
 lang: de-DE
 documentclass: scrreprt
 toc: true
@@ -18,7 +18,7 @@ Geändert und beschlossen von der Jahresversammlung am 04. Februar 2022
 
 ## §1 Name, Sitz und Geschäftsjahr
 
-1. Name: Der Verein führt den Namen „Opennet Initiative e.V.“. Er ist in das Vereinsregister des Amtsgerichts Rostock unter der Registernummer VR 2110 eingetragen
+1. Name: Der Verein führt den Namen „*Opennet Initiative e.V.*“. Er ist in das Vereinsregister des Amtsgerichts Rostock unter der Registernummer VR 2110 eingetragen.
 2. Sitz: Der Verein hat seinen Sitz in Rostock.
 3. Geschäftsjahr: Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
@@ -61,13 +61,13 @@ Der Zweck des Vereins ist die Förderung des Aufbaus einer freien und offenen Ko
 8. Erlöschen der Mitgliedschaft: Die Mitgliedschaft erlischt durch Tod, Austritt oder Ausschluß.
 9. Der Austritt aus dem Verein erfolgt durch schriftliche Erklärung an den Vorstand und ist nur zum Ende des jeweiligen Kalendermonats möglich. Eine Rückerstattung gezahlter Beiträge, insbesondere von Anteilen des Jahresbeitrags, ist ausgeschlossen.
 10. Ausschluß: Handelt ein Vereinsmitglied den Zielen und Zwecken des Vereins zuwider, verstößt es mehrfach oder schwerwiegend gegen die Leistungsordnung des Vereins oder ist es trotz Mahnung mehr als ein Quartal im Zahlungsrückstand, so kann der Vorstand den Ausschluss des Mitglieds beschließen. Über den Ausschluss ist auf der nächsten Mitgliederversammlung zu informieren. Die ausgeschlossenen Mitglieder sind nicht in der Einladung namentlich anzukündigen. Die Mitgliederversammlung kann den Beschluss des Vorstandes auf Antrag durch einfache Mehrheit aufheben.
-11. Wechsel der Art der Mitgliedschaft ist zum Ende des jeweiligen Kalendermonats möglich. 
+11. Wechsel der Art der Mitgliedschaft ist zum Ende des jeweiligen Kalendermonats möglich.
 
 ## §5 Beiträge
 
 1. Die Höhe und Fälligkeit der Mitgliedsbeiträge ist in der Beitragsordnung des Vereins geregelt. Die Beitragsordnung wird durch die Mitgliederversammlung beschlossen.
 2. In begründeten Ausnahmefällen können Mitglieder durch Vorstandsbeschluß von der Beitragspflicht teilweise oder ganz befreit werden.
- 
+
 ## §6 Organe des Vereins
 
 Die Organe des Vereins sind die Mitgliederversammlung, der Vorstand und die Kassenprüfer.
@@ -101,19 +101,19 @@ Beschlußfassungen der Mitgliederversammlung und des Vorstands können auch virt
 1. Wahl: Die beiden Kassenprüfer werden von der Mitgliederversammlung für die Dauer von zwei Jahren bestimmt
 2. Aufgaben: Die Bücher über die Einnahmen und Ausgaben des Vereins werden vom Schatzmeister geführt. Die Prüfung der Bücher erfolgt durch die beiden Kassenprüfer gemäß der Finanzordnung des Vereins. Die Kassenprüfer erstellen einen Bericht zu Händen der Mitgliederversammlung.
 
-## § 11 Haftung
+## §11 Haftung
 
 Die Mitglieder des Vorstands sowie die Kassenprüfer haften dem Verein gegenüber nur für grob fahrlässige oder vorsätzliche Schädigung.
 
-## § 12 Auflösung des Vereins
+## §12 Auflösung des Vereins
 
-Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit einer Mehrheit von neun Zehntel der abgegebenen gültigen Stimmen beschlossen werden. Satzungsänderungen und Vereinsauflösung können nicht in derselben Mitgliederversammlung beschlossen werden. Die Abwicklung wird vom Vorstand als Liquidator durchgeführt, falls die Mitgliederversammlung nicht etwas anderes beschließt. 
+Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit einer Mehrheit von neun Zehntel der abgegebenen gültigen Stimmen beschlossen werden. Satzungsänderungen und Vereinsauflösung können nicht in derselben Mitgliederversammlung beschlossen werden. Die Abwicklung wird vom Vorstand als Liquidator durchgeführt, falls die Mitgliederversammlung nicht etwas anderes beschließt.
 
-## § 13 Inkrafttreten der Satzung
+## §13 Inkrafttreten der Satzung
 
 Diese Satzung wurde von der Mitgliederversammlung am 28. 1. 2005 beschlossen und mehrfach modifiziert, durch die E-Mail-Abstimmung vom 30.09.2007 bis zum 30.10.2007 sowie zuletzt durch die Mitgliederversammlung 04. Februar 2022. Die modifizierte Satzung tritt mit dem Tag der Bekanntgabe an das Registergericht in Kraft. Durch ihre Mitgliedschaft erkennen alle Mitglieder diese Satzung an.
 
-## § 14 Weitere Dokumente des Vereinsgeschehens
+## §14 Weitere Dokumente des Vereinsgeschehens
 
 Folgende weitere Dokumente und Ordnungen regeln das Vereinsleben:
 1. Die Leistungsordnung des Vereins regelt die Bedingungen, zu denen Mitglieder der einzelnen Kategorien die Leistungen des Vereins nutzen können. Sie wird durch die Mitgliederversammlung erlassen und ist in der jeweils gültigen Fassung für alle Mitglieder verbindlich.
@@ -124,6 +124,6 @@ Folgende weitere Dokumente und Ordnungen regeln das Vereinsleben:
 Rostock, den 30.10.2007
 Für den Vorstand
 Jan Conrads Christian Wedell
-Lothar Mickel Nils Heine 
+Lothar Mickel Nils Heine
 
 *Diese Satzung tritt mit der Beschlussfassung der Jahresversammlung am 04. Februar 2022 in Kraft.*

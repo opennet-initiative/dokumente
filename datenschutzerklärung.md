@@ -2,7 +2,7 @@
 title: |
  ![](opennet.png){width=1in}
  Datenschutzerklärung
-author: Opennet Iniative e.V. - https://opennet-initiative.de/
+author: Opennet Initiative e.V. - https://opennet-initiative.de/
 subject: Dokumente
 date: 07.05.2018
 lang: de-DE
@@ -18,8 +18,8 @@ Beschlossen in der E-Mail Abstimmung am 07. Mai 2018
 
 1. Diese Datenschutzerklärung beinhaltet die „Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person“ gemäß Art. 13 Datenschutz-Grundverordnung (DS-GVO).
 
-2. Verantwortliche Stelle: 
- 
+2. Verantwortliche Stelle:
+
    Opennet Initiative e.V.<br>
    Friedrichstr. 23, 18057 Rostock<br>
    vorstand@opennet-initiative.de
@@ -42,8 +42,8 @@ Beschlossen in der E-Mail Abstimmung am 07. Mai 2018
 
 6. Das Mitglied hat das Recht auf Auskunft des Vereins über seine gespeicherten Daten sowie auf deren Berichtigung und Löschung (sofern nicht Art. 6, Abs. 1, lit b) oder lit. f) DSGVO betroffen ist). Dieses bezieht sich auch auf eine Einschränkung der Datenverarbeitung oder ein Widerspruch gegen eine Datenübermittlung. Eine entsprechende Anfrage ist per Textform an den Vorstand zu stellen.
 
-7. Das Mitglied hat ein Beschwerderecht. Zuständig in Mecklenburg-Vorpommern ist dafür: 
-   
+7. Das Mitglied hat ein Beschwerderecht. Zuständig in Mecklenburg-Vorpommern ist dafür:
+
    Der Landesbeauftragte für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern<br>
    Schloss Schwerin, Lennéstraße 1, 19053 Schwerin<br>
    Telefon: +49 385 59494 0<br>
