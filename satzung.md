@@ -111,7 +111,11 @@ Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit einer Meh
 
 ## §13 Inkrafttreten der Satzung
 
-Diese Satzung wurde von der Mitgliederversammlung am 28. 1. 2005 beschlossen und mehrfach modifiziert, durch die E-Mail-Abstimmung vom 30.09.2007 bis zum 30.10.2007 sowie zuletzt durch die Mitgliederversammlung 04. Februar 2022. Die modifizierte Satzung tritt mit dem Tag der Bekanntgabe an das Registergericht in Kraft. Durch ihre Mitgliedschaft erkennen alle Mitglieder diese Satzung an.
+Diese Satzung wurde von der Mitgliederversammlung am 28. 1. 2005 beschlossen und
+mehrfach modifiziert, zuletzt durch die E-Mail-Abstimmung vom 30.09.2007 bis zum
+30.10.2007. Die modifizierte Satzung tritt mit dem Tag der Bekanntgabe an das
+Registergericht in Kraft. Durch ihre Mitgliedschaft erkennen alle Mitglieder
+diese Satzung an.
 
 ## §14 Weitere Dokumente des Vereinsgeschehens
 
