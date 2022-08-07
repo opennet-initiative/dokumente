@@ -111,21 +111,19 @@ Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit einer Meh
 
 ## §13 Inkrafttreten der Satzung
 
-Diese Satzung wurde von der Mitgliederversammlung am 28. 1. 2005 beschlossen und
-mehrfach modifiziert, zuletzt durch die E-Mail-Abstimmung vom 30.09.2007 bis zum
-30.10.2007. Die modifizierte Satzung tritt mit dem Tag der Bekanntgabe an das
-Registergericht in Kraft. Durch ihre Mitgliedschaft erkennen alle Mitglieder
-diese Satzung an.
+Diese Satzung wurde von der Mitgliederversammlung am 28.01.2005 beschlossen und mehrfach modifiziert, zuletzt durch die E-Mail-Abstimmung vom 30.09.2007 bis zum 30.10.2007. Die modifizierte Satzung tritt mit dem Tag der Bekanntgabe an das Registergericht in Kraft. Durch ihre Mitgliedschaft erkennen alle Mitglieder diese Satzung an.
 
 ## §14 Weitere Dokumente des Vereinsgeschehens
 
 Folgende weitere Dokumente und Ordnungen regeln das Vereinsleben:
+
 1. Die Leistungsordnung des Vereins regelt die Bedingungen, zu denen Mitglieder der einzelnen Kategorien die Leistungen des Vereins nutzen können. Sie wird durch die Mitgliederversammlung erlassen und ist in der jeweils gültigen Fassung für alle Mitglieder verbindlich.
 2. Die Finanzordnung regelt die Ausgaben und die Mittelverwendung durch den Vorstand. Sie wird durch die Mitgliederversammlung erlassen und ist in der jeweils gültigen Fassung für alle Mitglieder verbindlich.
 3. Die Beitragsordnung regelt die Mitgliedsbeiträge der einzelnen Mitglieder-Kategorien. Sie wird durch die Mitgliederversammlung erlassen und ist in der jeweils gültigen Fassung für alle Mitglieder verbindlich.
 4. Die Technikordnung regelt die Verfahrensweise bei der Nutzung vereinseigener Technik. Sie wird durch die Mitgliederversammlung erlassen und ist in der jeweils gültigen Fassung für alle Mitglieder verbindlich.
 
 Rostock, den 30.10.2007
+
 Für den Vorstand
 Jan Conrads Christian Wedell
 Lothar Mickel Nils Heine
